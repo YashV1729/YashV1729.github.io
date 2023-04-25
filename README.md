@@ -1,2 +1,1 @@
-# AppearReact
-A 3d portfolio website using React library 
+This a react portfolio app
