@@ -47,10 +47,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-       Hello there I'm a 2022 graduate with a major in Computer Science. A versatile developer 
-       with hands-on experience in designing, developing, deploying, and implementing web-based applications
-       & solutions using a range of technologies and programming languages. Passionate in talking about DevOps 
-       and Cloud Native technologies with experience working on container-based technologies like Docker and Kubernetes!!!
+       I'm a 2022 graduate with a bachelor's in Computer Science major. A versatile developer with hands-on experience in designing, 
+       developing, deploying, and implementing web-based applications & solutions using a range of technologies and 
+       programming languages. Fullstack developer with an interest in DevOps and Cloud Native technologies, 
+       experienced working on container-based technologies like Docker and Kubernetes, and implementing 
+       CI/CD pipelines by adopting GitOps principles.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
